@@ -15,6 +15,7 @@ namespace Calculator
                 Console.WriteLine("Podaj pierwsza liczbe:");
                 var number1 = GetInput();
 
+
                 //if (!int.TryParse(Console.ReadLine(), out int number1))
                     //throw new Exception("Podana wartosc jest nieprawidlowa.");
 
