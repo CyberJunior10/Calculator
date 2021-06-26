@@ -22,6 +22,7 @@ namespace Calculator
                 Console.WriteLine("Jaka operacje chcesz wykonac? MOzliwe operacje to '+','-','/','*'.");
                 var action = Console.ReadLine();
 
+
                 Console.WriteLine("Podaj druga liczbe:");
                 var number2 = GetInput();
                 //if (!int.TryParse(Console.ReadLine(), out int number2))
